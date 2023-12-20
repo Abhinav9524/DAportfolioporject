@@ -1,5 +1,5 @@
-# Abhinav R
-  Data analyst
+# Abhinav R                                                              contact - abhi06842@gmail.com 
+# Data analyst                                                                     https://www.linkedin.com/in/abhinav-r41b477261
   
   Motivated and detail-oriented recent graduate with
   internship experience in data analysis, seeking a data
