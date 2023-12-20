@@ -8,7 +8,7 @@
 
 
 
-## projects                                                                                      #
+## projects                                                                        ![Screenshot 2023-12-20 175326](https://github.com/Abhinav9524/DAportfolioporject/assets/142747556/20b26dbe-7ec7-4413- a2e0-68c463ec391a)
 # 1) Wind turbine engine failure
 Collaborated on a live project focused on mitigating windturbine engine failures.
 Successfully contributed to reducing unplanned failuresby 30%, enhancing operational efficiency.                         
